@@ -46,3 +46,4 @@ exp_2 = pd.DataFrame({'intervalo': list(np.arange(0,60)), 'total': [2391]*len(mi
 		      'e1_conteo': [1757]*len(minutes), 'e1_proporcion': [.73]*len(minutes),
                       'e2_conteo': [634]*len(minutes), 'e2_proporcion': [.27]*len(minutes)},
 		       index=list(np.arange(0,60)))
+
